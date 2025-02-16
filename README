@@ -1,8 +1,8 @@
 ## Инструкция по запуску Telegram-бота:
 #### 1. Клонируйте репозиторий:
-    git clone https://github.com/ваш-username/ваш-репозиторий.git
+    git clone https://github.com/Xyndeside/NikeShop-tg_bot.git
 #### и перейдите в папку проекта:
-    cd ваш-репозиторий
+    cd NikeShop-tg_bot
 #### 2. Создайте виртуальное окружение:
     python -m venv venv
 #### 3. Активируйте виртуальное окружение:
